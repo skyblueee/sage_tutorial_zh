@@ -4,6 +4,6 @@
 
 计划通过本项目的学习：
 1. 熟悉sage
-2. 了解rst
+2. 了解[rst](http://jwch.sdut.edu.cn/book/rst.html)
 
 以上。
